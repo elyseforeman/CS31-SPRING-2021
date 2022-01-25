@@ -1,1 +1,0 @@
-This project receives input in the form of a string of letters and symbols that represent musical notes, then translates these symbols into input that ButtonBass.com will accept in its online piano simulator.
