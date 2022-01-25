@@ -1,5 +1,5 @@
 # CS31-SPRING-2021
-Welcome to my solutions for the projects assigned in Spring of 2021
+Welcome to my solutions for the projects assigned in CS31 with David Smallberg at UCLA in the Spring of 2021!
 
 
 
